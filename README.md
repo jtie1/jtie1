@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabe @jtie1
+- 👋 Hi, I’m Gabe!
 - 👀 I’m interested in 3D modeling and frontend development
 - 🌱 I’m currently learning Blender and Unity while brushing up on my Python for artificial intelligence
 - 📫 Reach me at this email: jeanninetiemann@gmail.com
